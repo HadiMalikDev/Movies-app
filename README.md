@@ -1,16 +1,8 @@
-# movies
+# Movies Information App
 
-A new Flutter project.
+In this app, you recieve movie information provided that you enter a valid movie name. The OMDB Api was used to fetch information.
 
-## Getting Started
+## Demo:
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/78081816/115225770-e99b5600-a127-11eb-97be-1f5e1f97f666.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
